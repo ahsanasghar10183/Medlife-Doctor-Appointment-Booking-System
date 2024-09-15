@@ -1,0 +1,315 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "post_date": "06-11-2024",
+      "blog_catagory": "Eye Care",
+      "blog_image": "src/assets/blog_image_1.png",
+      "blog_title": "How Medlife can change your way of healthcare",
+      "blog_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius urna a urna rutrum mattis pulvinar.."
+    },
+    {
+      "id": 2,
+      "post_date": "06-11-2024",
+      "blog_catagory": "Eye Care",
+      "blog_image": "src/assets/blog_image_2.png",
+      "blog_title": "How Medlife can change your way of healthcare",
+      "blog_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius urna a urna rutrum mattis pulvinar.."
+    },
+    {
+      "id": 3,
+      "post_date": "06-11-2024",
+      "blog_catagory": "Eye Care",
+      "blog_image": "src/assets/blog_image_3.png",
+      "blog_title": "How Medlife can change your way of healthcare",
+      "blog_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius urna a urna rutrum mattis pulvinar.."
+    }
+  ],
+  "Doctors_Info": [
+    {
+      "dr_name": "Dr Miroillic",
+       "dr_image": "src/assets/doc_2.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    },
+    {
+      "dr_name": "Dr Miro",
+       "dr_image": "src/assets/doc-1.jpg",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    },
+    {
+      "dr_name": "Dr Amanda",
+       "dr_image": "src/assets/doc-4.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    }, {
+      "dr_name": "Dr Miro",
+       "dr_image": "src/assets/doc-3.jpg",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    }, {
+      "dr_name": "Dr Gareni",
+       "dr_image": "src/assets/doc-5.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    },  {
+      "dr_name": "Dr Bugeja",
+       "dr_image": "src/assets/doc-6.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    },
+    {
+      "dr_name": "Dr Steve",
+       "dr_image": "src/assets/doc-7.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    },
+    {
+      "dr_name": "Dr James",
+       "dr_image": "src/assets/doc-8.png",
+      "dr_qualification": "MBBS (FCPS)",
+      "dr_speciality": "Medicine",
+      "dr_verification_badge": "PMC Verified",
+      "dr_experience": "5 Years",
+      "dr_rating": "4.9",
+      "dr_no_reviews": "107",
+      "Treatments": {
+        "disease_speciality": [
+          "Typhoid Fever",
+          "Cough",
+          "Flu",
+          "Asthma"
+        ]
+      },
+      "clinic_info": {
+        "clinic_name": "Medical Care Center",
+        "clinic_Location": "GreenView Colony Faisalabad",
+        "city": "Faisalabad",
+        "clinic_days": "Mon, Tue, Wed",
+        "clinic_timings": {
+          "clinic_time_start": "10: 00 am",
+          "clinic_time_end": "4: 00 pm",
+          "clinic_fee": "1500"
+        }
+      },
+      "consultation_duration": "30 min",
+      "conusltation_days": "Mon, Tue, Wed",
+      "consultation_timings": {
+        "consultation_time_start": "10: 00 am",
+        "consultation_time_end": "4: 00 pm",
+        "consultation_fee": "1500"
+      }
+    }
+  ]
+}
