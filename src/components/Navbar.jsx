@@ -30,6 +30,7 @@ const Navbar = () => {
           </span>
           <ul className={`list-none cursor-pointer text-gray-900 block md:flex m-0 transition-opacity ease-out duration-500 delay-100 ${toggle ? 'block px-8 mt-8 mb-8' : 'hidden'}`} >
             <li className=' mr-8'><NavLink to="/" className=' pb-0 lg:pb-2 border-b-2 border-primarycolor'>Home</NavLink></li>
+            <li className=' mr-8'><NavLink to="/doctors" className='pb-2'>Doctors</NavLink></li>
             <li className=' mr-8'><NavLink to="/about" className='pb-2' >About</NavLink></li>
             <li className=' mr-8'><NavLink to="/blog" className='pb-2'>Blog</NavLink></li>
             <li className=' mr-8'><NavLink to="/contact" className='pb-2'>Contact</NavLink></li>
