@@ -62,13 +62,13 @@ function Footer() {
             <div className='flex flex-col gap-4'>
               <IconButton
                type={'secondary'}
-                style={'text-white bg-gray-500 bg-opacity-35 hover:bg-gray-600 hover:bg-opacity-35 rounded-xl px-4 py-2 text-lg font-medium'}
+                style={'text-white bg-gray-500 bg-opacity-35 hover:bg-gray-600 hover:bg-opacity-35 rounded-xl px-4 py-4 text-sm font-medium'}
                 text={"Download from App Store"}
                 icon={<FaApple />}
               />
               <IconButton
                 type={'secondary'}
-                style={'text-white bg-gray-500 bg-opacity-35 hover:bg-gray-600 hover:bg-opacity-35 rounded-xl px-4 py-2 text-lg font-medium'}
+                style={'text-white bg-gray-500 bg-opacity-35 hover:bg-gray-600 hover:bg-opacity-35 rounded-xl px-4 py-4 text-sm font-medium'}
                 text={"Download from Play Store"}
                 icon={<IoLogoGooglePlaystore />}
               />

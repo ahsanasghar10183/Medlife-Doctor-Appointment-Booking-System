@@ -16,8 +16,8 @@ function BookVisitcards() {
                     <div className="col-span-12 mb-12 md:mb-0 md:col-span-6 lg:col-span-4 shadow-lg p-4 rounded-3xl relative w-full h-44">
                         <div className="flex flex-row">
                             <div>
-                                <h2 className='text-sm lg:text-lg '>Book In-Person Appointment</h2>
-                                <p className='text-sm lg:text-lg'>200 + Doctors Available</p>
+                                <h2 className='text-sm '>Book In-Person Appointment</h2>
+                                <p className='text-sm'>200 + Doctors Available</p>
                             </div>
                             <div>
                                 <img src="./src/assets/smiling-doctor-with-strethoscope-isolated-grey.png" className='-z-10 absolute bottom-12 right-4 md:-z-10 md:absolute md:right-4 md:bottom-8 lg:-z-10 lg:absolute lg:bottom-12 ' alt="" />
@@ -32,8 +32,8 @@ function BookVisitcards() {
                     <div className="col-span-12 mb-12 lg:mb-0 md:col-span-6 lg:col-span-4 shadow-lg p-4 rounded-3xl relative w-full h-44">
                         <div className="flex flex-row">
                             <div>
-                                <h2 className='text-sm lg:text-lg'>Book In-Person Appointment</h2>
-                                <p className='text-sm lg:text-lg'>200 + Doctors Available</p>
+                                <h2 className='text-sm'>Book In-Person Appointment</h2>
+                                <p className='text-sm'>200 + Doctors Available</p>
                             </div>
                             <div>
                                 <img src="./src/assets/smiling-doctor-with-strethoscope-isolated-grey.png" className='-z-10 absolute bottom-12 right-4  md:-z-10 md:absolute md:right-4 md:bottom-8 lg:-z-10 lg:absolute lg:bottom-12 ' alt="" />

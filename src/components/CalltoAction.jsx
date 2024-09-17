@@ -37,7 +37,7 @@ function CalltoAction() {
 
                         </div>
                        <div>
-                         <Button text={"Learn More"} type={"primary"} onclick_fun={test_button} style={" w-1/2 md:w-1/4 px-4 py-2 md:px-8 md:py-3 text-sm"} />
+                         <Button text={"Learn More"} type={"primary"} onclick_fun={test_button} style={" w-1/2 md:w-1/4 px-4 py-2 md:px-4 md:py-2 text-sm"} />
 
                        </div>
                        

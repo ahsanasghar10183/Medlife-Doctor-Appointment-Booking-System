@@ -19,7 +19,7 @@ function AboutSection() {
                         <p className='text-gray-400 text-xs md:text-sm' >
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et nunc elementum, fringilla leo et, facilisis nisi. Phasellus tincidunt ligula rutrum egestas sollicitudi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et nunc elementum, fringilla leo et, facilisis nisi. Phasellus tincidunt ligula rutrum egestas sollicitudin.
                         </p>
-                        <Button text={"Learn More"} type={"primary"} onclick_fun={test_button} style={" w-1/2 md:w-1/4 px-4 py-2  md:px-8 md:py-3 text-sm"} />
+                        <Button text={"Learn More"} type={"primary"} onclick_fun={test_button} style={" w-1/2 md:w-1/4 px-4 py-2  md:px-4 md:py-2 text-sm"} />
 
                     </div>
                     <div className="col-span-12 md:col-span-6 flex justify-center">

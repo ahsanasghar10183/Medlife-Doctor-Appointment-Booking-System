@@ -24,7 +24,7 @@ const BlogFilters = ({ pass_filters }) => {
         <section className='py-8 px-12 lg:py-8 lg:px-36'>
                 
                 <div className='flex py-4 border-b-2 border-lightgreyshade'>
-                    <ul className='list-none flex flex-col md:flex-row gap-4 lg:gap-12'>
+                    <ul className='list-none flex flex-col md:flex-row gap-4 lg:gap-8'>
                         {blogFiltersArr.map((filterVal) => (
                             <li key={filterVal}>
                                 <button
